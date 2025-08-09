@@ -1,0 +1,10 @@
+build
+out
+.cache
+.idea
+.vs
+.vscode
+/cmake-build-debug-mingw
+
+# Project exclude paths
+/cmake-build-debug-mingw/CMakeFiles/*
